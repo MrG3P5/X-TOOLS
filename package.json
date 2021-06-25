@@ -1,0 +1,26 @@
+{
+  "name": "x-tools",
+  "version": "1.0.0",
+  "description": "Nothing Like 127.0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrG3P5"
+  },
+  "keywords": [
+    "X-TOOLS"
+  ],
+  "author": "X-MrG3P5",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "figlet": "^1.5.0",
+    "google-it": "^1.6.2",
+    "prompt-sync": "^4.2.0",
+    "whois-json": "^2.0.4"
+  }
+}
