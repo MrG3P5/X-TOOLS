@@ -78,13 +78,11 @@ root@mrg3p5:~# npm start
 * [7] Zone Transfer
 * [8] Whois Lookup
 * [9] IP Location Lookup
-* [10] Reverse IP Lookup
-* [11] TCP Port Scan
-* [12] Subnet Lookup
-* [13] HTTP Header Check
-* [14] Extract Page Links
-* [15] Version
-* [16] Exit
+* [10] TCP Port Scan (nmap)
+* [11] Subnet Lookup
+* [12] HTTP Header Check
+* [13] Dork Engine
+* [00] Exit
 
 
 ##### Reference :
